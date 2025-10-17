@@ -49,7 +49,7 @@ Security researchers should follow these steps when reporting a vulnerability:
 * The affected party must maintain communication with the researcher and provide updates on remediation progress.
 
 # 8. Public Disclosure Clause
-If the affected party fails to acknowledge or respond within 30 days or does not implement a fix within 90 days, the researcher has the right to publicly disclose the vulnerability while ensuring responsible disclosure practices (e.g., withholding exploit details that could lead to active exploitation).
+If the affected party fails to acknowledge or respond within 30 days or does not implement a fix within **90 days**, the researcher has the right to publicly disclose the vulnerability while ensuring responsible disclosure practices (e.g., withholding exploit details that could lead to active exploitation).
 
 # 9. Coordinated Disclosure with DICT
 * If the affected party is unresponsive or refuses to remediate the issue, researchers should coordinate with DICT before public disclosure.
