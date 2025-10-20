@@ -9,11 +9,8 @@ The Department of Information and Communications Technology (DICT) is committed 
 These guidelines apply to security researchers, ethical hackers, cybersecurity professionals, government agencies, private organizations, and other entities handling vulnerabilities within the Philippine jurisdiction.
 
 # Safe Harbor Protection for Security Researchers
-#3. Protection for Good-Faith Research
-Security researchers acting in good faith and in accordance with these guidelines will be protected from legal action under applicable cybersecurity laws, including but not limited to:
-* The Cybercrime Prevention Act of 2012 (RA 10175)
-* The Data Privacy Act of 2012 (RA 10173)
-* Any relevant contractual or regulatory restrictions
+# 3. Protection for Good-Faith Research
+Security researchers acting in good faith, within the defined scope, and in accordance with the guidelines shall be protected to the fullest extent permissible by law arising from their security testing activities, except in cases involving gross negligence, willful misconduct, or actions beyond the permitted scope.
 
 A researcher is considered to act in good faith if they:
 * Do not exploit a vulnerability beyond what is necessary to demonstrate its existence.
