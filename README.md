@@ -56,25 +56,30 @@ The security researcher is expected to negotiate in good faith regarding any req
 
 The DICT may mediate in cases of dispute or delay and, where appropriate, issue advisories or notifications to affected entities to encourage or accelerate remediation and protect the public interest.
 
+# 9. Public Disclosure Extension
+If the affected party is unable to implement a complete remediation within the standard 90-day period due to a reasonable technical, operational, or regulatory constraints, they may submit a written request for an extension to the security researcher and to the DICT. Such request shall clearly state the justification and proposed additional timeframe.
+
+The security researcher, acting in good faith, shall consider and reasonably accommodate the extension request, provided that the affected party maintains open communication, demonstrates active progress toward remediation, and implements mitigations to reduce risk.
+
 # Ethical Considerations and Best Practices
-# 9. Guidelines for Ethical Security Research
+# 10. Guidelines for Ethical Security Research
 Researchers should adhere to the following ethical principles:
 * Minimize risk: Do not conduct security tests that may disrupt operations.
 * Confidentiality: Do not access, store, or share sensitive data.
 * Cooperation: Work with the affected party to ensure a proper resolution.
 * Legal compliance: Follow all relevant laws and regulations.
 
-# 10. Recognition and Incentives
+# 11. Recognition and Incentives
 * Organizations may choose to provide acknowledgments, rewards, or bug bounties for responsible disclosures.
 * DICT will maintain a Hall of Ethical Hackers to recognize researchers contributing to national cybersecurity.
 
 # Enforcement and Legal Framework
-# 11. DICT’s Role in Vulnerability Disclosure
+# 12. DICT’s Role in Vulnerability Disclosure
 * DICT will act as a mediator in disputes regarding vulnerability handling.
 * DICT may issue advisories or recommend regulatory actions for non-cooperative entities.
 * DICT will coordinate with law enforcement agencies in case of malicious exploitation.
 
-# 12. Legal Protections and Liabilities
+# 13. Legal Protections and Liabilities
 * Researchers adhering to these guidelines are protected from prosecution under applicable laws.
 * Entities failing to remediate vulnerabilities on time may face regulatory scrutiny or public advisories.
 
