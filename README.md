@@ -48,9 +48,9 @@ Security researchers should follow these steps when reporting a vulnerability:
 # 8. Coordinated Public Disclosure
 If the affected party fails to acknowledge or respond within 30 days or does not implement a fix within **90 days**, the researcher has the right to publicly disclose the vulnerability while ensuring responsible disclosure practices (e.g., withholding exploit details that could lead to active exploitation).
 
-Prior to any public disclosure, the security researcher shall exercise coordination by submitting a draft of the intended disclosure to both the DICT and the affected organization. The draft shall include the proposed publication date and may omit or redact exploit code or other sensitive technical details.
+Before any public disclosure, the security researcher shall use a platform intended for vulnerability disclosure wherein he or she can just click a button to request for public disclosure.
 
-The DICT and the affected organization shall have five (5) business days from receipt of the draft to request reasonable redactions, exclusion of exploit code, or adjustments to protect operational or national security interests. The affected organization may also use this window to coordinate internally with its risk management and strategy teams to assess potential impact.
+The DICT and the affected organization shall view the request and approve it per their discretion.
 
 The security researcher is expected to negotiate in good faith regarding any requested changes or delays, provided that such coordination shall not unreasonably restrict the researcher’s right to disclose or the public’s right to be informed of security risks.
 
